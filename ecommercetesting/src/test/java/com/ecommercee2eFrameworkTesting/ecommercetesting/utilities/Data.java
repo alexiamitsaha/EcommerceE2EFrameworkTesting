@@ -14,39 +14,39 @@ public class Data {
 
 
 
-    //                      ****          Test Case 1: Register User  ****        
+    //   ****  Test Case 1: Register User  ****
 
 
     public static final String NEW_USER_SIGNUP_TEXT = "New User Signup!";
     //Signup button validation
     public static final String SIGNUP_BUTTON_TEXT = "Signup";
     //Email and Password
-    public static final String DEMO_USER_NAME= "test012897";
-    public static final String DEMO_EMAIL= "alexsmkovtkvtzb4897@sgisfg.com";
-    public static final String DEMO_PASSWORD= "Asdf1234";
+    public static final String DEMO_USER_NAME= "Testcase001";
+    public static final String DEMO_EMAIL= "testcase001@mailinator.com";
+    public static final String DEMO_PASSWORD= "Test@2023";
 
     //signup
     public static final String ENTER_ACCOUNT_INFORMATION = "ENTER ACCOUNT INFORMATION";
     //Address Information
-    public static final String FIRST_NAME= "Alex";
-    public static final String LAST_NAME= "Smakov";
+    public static final String FIRST_NAME= "Test";
+    public static final String LAST_NAME= "Case";
     public static final String COMPANY= "TestCompany";
-    public static final String ADDRESS= "145-W,Troy,Newyork,USA";
-    public static final String ADDRESS2= "145-W,Newyork ";
+    public static final String ADDRESS= "14005-p,Newyork,USA";
+    public static final String ADDRESS2= "14005-p,Newyork ";
     public static final String STATE= "NewYork";
-    public static final String CITY= "Troy";
+    public static final String CITY= "Noakhali";
     public static final String ZIPCODE= "1256";
-    public static final String MOBILE_NUMBER= "+01235525";
+    public static final String MOBILE_NUMBER= "+465165545";
     //Create Account Button
     public static final String  CREATE_BUTTON_TEXT = "Create Account";
     //Account Created text
     public static final String  ACCOUNT_CREATED_TEXT = "ACCOUNT CREATED!";
     //Logged In As User Name  text
-    public static final String  LOGGED_IN_AS_USER_TEXT = "Logged in as test012897";
+    public static final String  LOGGED_IN_AS_USER_TEXT = "Logged in as Testcase001";
 
 
 
-    //                      ****          Test Case 2 : Login User with correct email and password  ****        
+    //  ****  Test Case 2 : Login User with correct email and password  ****
 
 
 
@@ -54,21 +54,21 @@ public class Data {
 
 
 
-    //                      ****          Test Case 3 : Login User with incorrect email and password  ****        
+    //    ****   Test Case 3 : Login User with incorrect email and password  ****
 
-    public static final String DEMO_INCORRECT_EMAIL= "alexsmkovtkvtzb420@sgisfg.com";
-    public static final String DEMO_INCORRECT_PASSWORD= "Asdfgh1234";
+    public static final String DEMO_INCORRECT_EMAIL= "alex0@mailinator.com";
+    public static final String DEMO_INCORRECT_PASSWORD= "1234";
     public static final String YOUR_EMAIL_OR_PASSWORD_IS_INCORRECT= "Your email or password is incorrect!";
 
 
 
-    //                      ****          Test Case 5: Register User with existing email  ****        
+    //    ****          Test Case 5: Register User with existing email  ****
 
     public static final String EMAIL_ADDRESS_ALREADY_EXIST= "Email Address already exist!";
 
 
 
-    //                      ****         Test Case 6: Contact Us Form  ****        
+    //   ****  Test Case 6: Contact Us Form  ****
 
     public static final String GET_IN_TOUCH= "GET IN TOUCH";
     public static final String NAME= "Alexiamitsaha";
