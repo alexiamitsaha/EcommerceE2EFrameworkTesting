@@ -1,8 +1,9 @@
 package com.automationpractice.ecommerce.testCases;
 
-import com.automationpractice.ecommerce.pages.TestCase16PlaceOrderLoginBeforeCheckoutPages;
+//import com.automationpractice.ecommerce.pages.TestCase16PlaceOrderLoginBeforeCheckoutPages;
 //import com.automationpractice.ecommerce.utilities.Data;
 import com.ecommercee2eFrameworkTesting.ecommercetesting.baseClasses.BaseClass;
+import com.ecommercee2eFrameworkTesting.ecommercetesting.pages.TestCase16PlaceOrderLoginBeforeCheckoutPages;
 import com.ecommercee2eFrameworkTesting.ecommercetesting.utilities.Data;
 import org.openqa.selenium.JavascriptExecutor;
 import org.testng.Assert;

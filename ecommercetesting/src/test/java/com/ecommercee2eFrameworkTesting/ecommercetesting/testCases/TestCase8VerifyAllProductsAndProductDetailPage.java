@@ -1,6 +1,7 @@
 package com.ecommercee2eFrameworkTesting.ecommercetesting.testCases;
-import com.automationpractice.ecommerce.pages.TestCase8VerifyAllProductsAndProductDetailPage_Page;
+//import com.automationpractice.ecommerce.pages.TestCase8VerifyAllProductsAndProductDetailPage_Page;
 import com.ecommercee2eFrameworkTesting.ecommercetesting.baseClasses.BaseClass;
+import com.ecommercee2eFrameworkTesting.ecommercetesting.pages.TestCase8VerifyAllProductsAndProductDetailPage_Page;
 import com.ecommercee2eFrameworkTesting.ecommercetesting.utilities.Data;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;

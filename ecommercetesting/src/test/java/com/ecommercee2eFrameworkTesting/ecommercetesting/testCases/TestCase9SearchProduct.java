@@ -1,7 +1,8 @@
 package com.ecommercee2eFrameworkTesting.ecommercetesting.testCases;
 
-import com.automationpractice.ecommerce.pages.TestCase9SearchProductPages;
+//import com.automationpractice.ecommerce.pages.TestCase9SearchProductPages;
 import com.ecommercee2eFrameworkTesting.ecommercetesting.baseClasses.BaseClass;
+import com.ecommercee2eFrameworkTesting.ecommercetesting.pages.TestCase9SearchProductPages;
 import com.ecommercee2eFrameworkTesting.ecommercetesting.utilities.Data;
 import org.testng.Assert;
 import org.testng.annotations.Test;

@@ -1,8 +1,9 @@
 package com.ecommercee2eFrameworkTesting.ecommercetesting.testCases;
 
-import com.automationpractice.ecommerce.pages.TestCase19ViewAndCartBrandProductsPages;
+//import com.automationpractice.ecommerce.pages.TestCase19ViewAndCartBrandProductsPages;
 //import com.automationpractice.ecommerce.utilities.Data;
 import com.ecommercee2eFrameworkTesting.ecommercetesting.baseClasses.BaseClass;
+import com.ecommercee2eFrameworkTesting.ecommercetesting.pages.TestCase19ViewAndCartBrandProductsPages;
 import com.ecommercee2eFrameworkTesting.ecommercetesting.utilities.Data;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
